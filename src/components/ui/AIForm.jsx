@@ -67,7 +67,7 @@ const AIForm = () => {
       <div className="flex justify-between items-center mt-2">
         <div className="flex gap-4">
           <a
-            href="https://github.com"
+            href="https://github.com/miqueiasbelfort"
             target="_blank"
             rel="noopener noreferrer"
             className="p-2 rounded-full hover:bg-white/5 transition-all duration-300 group"
@@ -75,7 +75,7 @@ const AIForm = () => {
             <FaGithub className="text-xl text-gray-400 group-hover:text-white" />
           </a>
           <a
-            href="https://linkedin.com"
+            href="https://www.linkedin.com/in/miqueias-belfort"
             target="_blank"
             rel="noopener noreferrer"
             className="p-2 rounded-full hover:bg-white/5 transition-all duration-300 group"
@@ -83,7 +83,7 @@ const AIForm = () => {
             <FaLinkedin className="text-xl text-gray-400 group-hover:text-white" />
           </a>
           <a
-            href="https://instagram.com"
+            href="https://www.instagram.com/miqueiasbelfort/"
             target="_blank"
             rel="noopener noreferrer"
             className="p-2 rounded-full hover:bg-white/5 transition-all duration-300 group"

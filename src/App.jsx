@@ -174,7 +174,7 @@ function App() {
                 <p className="text-gray-400 mb-6">Feel free to reach out through my social media channels or send me an email. I'm always open to new opportunities and collaborations.</p>
                 <div className="flex gap-4">
                   <a 
-                    href="https://github.com/yourusername" 
+                    href="https://github.com/miqueiasbelfort" 
                     target="_blank" 
                     rel="noopener noreferrer"
                     className="p-3 rounded-full bg-gray-700/50 hover:bg-blue-500/20 transition-all duration-300 group"
@@ -182,7 +182,7 @@ function App() {
                     <FaGithub className="w-6 h-6 text-gray-400 group-hover:text-blue-400 transition-colors duration-300" />
                   </a>
                   <a 
-                    href="https://linkedin.com/in/yourusername" 
+                    href="https://www.linkedin.com/in/miqueias-belfort/" 
                     target="_blank" 
                     rel="noopener noreferrer"
                     className="p-3 rounded-full bg-gray-700/50 hover:bg-blue-500/20 transition-all duration-300 group"
@@ -190,7 +190,7 @@ function App() {
                     <FaLinkedin className="w-6 h-6 text-gray-400 group-hover:text-blue-400 transition-colors duration-300" />
                   </a>
                   <a 
-                    href="https://instagram.com/yourusername" 
+                    href="https://www.instagram.com/miqueiasbelfort/" 
                     target="_blank" 
                     rel="noopener noreferrer"
                     className="p-3 rounded-full bg-gray-700/50 hover:bg-blue-500/20 transition-all duration-300 group"
